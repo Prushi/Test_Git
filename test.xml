@@ -6,3 +6,4 @@ public void a()
    c=a+b;
    system.out.print(c);
 }
+made
